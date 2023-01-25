@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="36.245867">
+    <testcase classname="" name="Tc-08: Verification of Adactin Logi               // rerun example" time="18.273593">
+        <system-out><![CDATA[Given user wants to open the Adactin application in chrome browser..........passed
+Then user wants to verify weather the login page apear or not...............passed
+When user wants to give valid username and password using DataTable with header Two-D ,and click on the login button.passed
+Then user wants to verify weather the search hotel page appear or not.......passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="Tc-09: Verification of Adactin Logi               // rerun example" time="17.972274">
+        <system-out><![CDATA[Given user wants to open the Adactin application in chrome browser..........passed
+Then user wants to verify weather the login page apear or not...............passed
+When user wants to give valid username and password using DataTable with header Two-D ,and click on the login button.passed
+Then user wants to verify weather the search hotel page appear or not.......passed
+]]></system-out>
+    </testcase>
+</testsuite>
